@@ -17,9 +17,7 @@ including AWS Lex integration, Lambda-based logic, real-time sentiment analysis 
 
 ---
 
-## 🏗️ Architecture
-![Architecture Diagram](docs/architecture.png)
-
+## 🏗️ Architecture:-
 **Architecture Overview:**
 1. User interacts with the chatbot on a website (Kommunicate).
 2. Amazon Lex manages the conversation flow.
